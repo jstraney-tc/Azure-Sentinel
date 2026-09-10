@@ -12,6 +12,16 @@
 *.lock
 .bundle/
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+.env
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
